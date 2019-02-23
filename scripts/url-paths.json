@@ -1,0 +1,5 @@
+[
+	"/healthz",
+	"/readiness",
+	"/some-404-which-results-in-error"
+]
